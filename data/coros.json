@@ -1,0 +1,1924 @@
+{
+    "coros" : [
+        {
+			"id"     : 1,
+			"title"  : "1. POBRE PEDEGRINO",
+			"stanzas":  [
+							{
+								"title"   : "",
+								"content" : "Pobre peregrino que vagando vas,-Cristo es el camino, Cristo es la verdad.-Si te encuentras débil, fuerzas te dará,-Si estás oprimido, te libertará.-Para los muertos hay vida,-Para los pobres riqueza,-Para los ciegos hay luz,-De Jesús, para ti."
+							}
+						]
+        },
+		{
+			"id"      : 2,
+			"title"   : "2. ALABAD, BENDECID A JEHOVÁ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Alabad, bendecid a Jehová,-Vosotros los hijos de Dios ||-|| Alzad vuestras manos, batidlas a Él-Y decidle que solo Él es fiel. ||"
+							}
+						]
+		},
+		{
+			"id"      : 3,
+			"title"   : "3. ALABA, ALMA MÍA, A JEHOVÁ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Alaba, alma mía, a Jehová ||-Alabaré a Jehová-En mi vida mientras viva.-Alaba, alma mía, a Jehová.-Jehová liberta a los cautivos,-Jehová da vista a los ciegos,-Jehová levanta a los caídos,-Jehová ama a los justos."
+							}
+						]
+		},
+		{
+			"id"      : 4,
+			"title"   : "4. ALGUIEN ESTÁ AQUÍ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Alguien está aquí y yo sé que es Cristo,-Alguien está aquí y yo sé que es el Señor ||-|| Él está aquí, tú no lo ves ||-Ora por ti, ora por mí,-Ora por todos al Señor."
+							}
+						]
+		},
+		{
+			"id"      : 5,
+			"title"   : "5. ASÍ DICE JESÚS",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Así dice Jesús, así, así, así:-<<Venid todos conmigo y os haré feliz>>-Y cuando sea llamado tu nombre allí,-Responderás gozoso: <<Señor, heme aquí>>."
+							}
+						]
+		},
+		{
+			"id"      : 6,
+			"title"   : "6. DESPIÉRTATE, SIÓN",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Despiértate Sión, levanta una tienda-Y coloca en ella el arca de Dios,-Alaba y bendice y danza a Jehová.-|| Que Dios ha llegado ||-Muy cerca de ti."
+							}
+						]
+		},                
+		{
+			"id"      : 7,
+			"title"   : "7. ESTE ES EL CRISTO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Este es el Cristo que yo predico-Y no me canso de alabar.-Él silenció los mares,-Echó fuera demonios,-Calmó los vientos y la tempestad.-Si este Cristo que predicamos-No fuera vivo y de poder,-No se cumplieran las profecías-Del santo libro de la ley."
+							}
+						]
+		},                
+		{
+			"id"      : 8,
+			"title"   : "8. EN LA IGLESIA DE DIOS SE SIENTE GOZO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| En la iglesia de Dios se siente gozo ||-|| Porque Cristo mora aquí ||-En la iglesia de Dios se siente gozo.-|| Da libertad al Señor, da libertad al Señor-Y verás cómo también tú sientes gozo. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 9,
+			"title"   : "9. YA QUE HAS PUESTO TU MANO EN EL ARADO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Ya que has puesto tu mano en el arado,-No vuelvas tu mirada hacia atrás.-|| Sigue a Cristo como fiel soldado-Y algún día recompensa tú tendrás. ||-Él te ofrece de vida una corona,-Debes ganarla con amor y devoción-|| Desechando la vieja levadura-Y sirviéndolede todo corazón. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 10,
+			"title"   : "10. YO TENGO UN BARCO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Yo tengo un barco que boga en altamar-Y a Jesucristo tengo por Capitán ||-|| Los marineros que bogan a su lado-Son almas que han lavado su pobre corazón. ||-|| Y tú, amigo, que naufragas en el mar,-Hoy te invitamos a seguir al Capitán. ||-|| Súbete a bordo y boga con nosotros-Y boga con nosotros al puerto celestial. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 11,
+			"title"   : "11. YO QUIERO MÁS DE CRISTO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Yo quiero más y más de Cristo,-Yo quiero más de su poder,-Yo quiero más de su presencia,-Yo quiero más y más de Él."
+							}
+						]
+		},                
+		{
+			"id"      : 12,
+			"title"   : "12. EL GOZO DEL SEÑOR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "||| El gozo del Señor mi fortaleza es |||-Y su gozo sin medida Él me da.-Si tienes ese gozo puedes tú cantar,-Si tienes ese gozo puedes tú danzar,-Si tienes ese gozo puedes tú gritar-Y su gozo sin medida ÉL me da."
+							}
+						]
+		},                
+		{
+			"id"      : 13,
+			"title"   : "13. ALABARÉ A MI SEÑOR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Alabaré, alabaré,-Alabaré a mi Señor ||-Juan vio el número de los redimidos-Y todos alababan al Señor:-Unos cantaban, otros oraban-Y todos alababan al Señor."
+							}
+						]
+		},                
+		{
+			"id"      : 14,
+			"title"   : "14. VEREMOS EN LAS NUBES AL SEÑOR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Veremos an las nubes al Señor-Cuando venga con poder,-A Abraham, Isaac y Jacob,-Los profetas y los muertos en Jesús.-Seremos transformados con poder-En un momento, amén.-|| Subiremos en las nubes a encontrarle,-¡Aleluya!, amén, amén. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 15,
+			"title"   : "15. ¡CUAŃ GLORIOSA SERÁ LA MAÑANA!",
+			"stanzas" : [
+							{
+								"title"   : "1",
+								"content" : "Cuán gloriosa será la mañana-Cuando venga Jesús el Salvador,-Las naciones unidas como hermanas-Bienvenida daremos al Señor."
+							},
+							{
+								"title"   : "CORO:",
+								"content" : "No habrá necesidad de la luz el resplandor,-Ni el sol dará su luz, ni tampoco su calor.-Allí llanto no habrá, ni tristeza, ni dolor,-Porque entonces Jesús el Rey del cielo,-Para siempre será el Consolador."
+							},
+							{
+								"title"   : "2",
+								"content" : "Esperamos la mañana gloriosa-Para dar la bienvenida al Dios de amor,-Donde todo será color de rosa-En la santa fragancia del Señor."
+							},
+							{
+								"title"   : "3",
+								"content" : "El cristiano fiel y verdadero-Y también el obrero de valor-Y la Iglesia, esposa del Cordero,-Estarán en los brazos del Señor."
+							}
+						]
+		},                
+		{
+			"id"      : 16,
+			"title"   : "16. JESÚS ESTÁ AQUÍ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Jesús está aquí, pide lo que quieras ||-Él tiene poder, Él te lo dará,-Jesús está aquí, hermano, pide lo que quieras."
+							}
+						]
+		},                
+		{
+			"id"      : 17,
+			"title"   : "17. CUANDO SUENE LA FINAL TROMPETA",
+			"stanzas" : [
+							{
+								"title"   : "1",
+								"content" : "Cuando suene la final trompeta-El Señor descenderá,-Los impíos mirarán al cielo-No queriéndose quedar.-|| Ya es tarde, amigo mío, ya es tarde,-Ya tú no podrás entrar. ||-|| No quisiste arrepentirte-Ahora te tienes que quedar ||"
+							},
+							{
+								"title"   : "",
+								"content" : "Me voy con Él, me voy con Él,-Yo no me quedo, me voy con Él.-|| Me voy con Él, me voy con Él ||-Yo no me quedo, me voy con Él."
+							},
+							{
+								"title"   : "2",
+								"content" : "Ya viene Cristo señales hay,-Almas salvadas viene a llevar,-Los que durmieron se quedarán,-Los que velaron se irán con Él.-|| Me voy con Él, me voy con Él ||-Yo no me quedo, me voy con Él. (Bis)"
+							}
+						]
+		},                
+		{
+			"id"      : 18,
+			"title"   : "18. DIOS ESTÁ AQUÍ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Dios está aquí, qué precioso es.-Él lo prometió donde hay dos o tres ||-|| Quédate, Señor ||-Quédate, Señor, en cada corazón.-|| Quédate, Señor ||-Quédate, Señor, en mí-¡Oh, Cristo mío, haz de mi alma un altar!-Para adorarte con devoción.-¡Oh, Cristo mío, haz de mi alma un altar!-Para adorarte con todo el corazón."
+							}
+						]
+		},                
+		{
+			"id"      : 19,
+			"title"   : "19. DESCIENDE AQUÍ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Desciende aquí, desciende aquí, desciende aquí,-El Espíritu de Dios desciende aquí.-Si los santos se congregan a alabar a su Señor,-El Espíritu de Dios desciende aquí ||-Ya, ya, ya llegó el avivamiento,-Ya, ya, ya el fuego se encendió,-Ya, ya, ya llegó el avivamiento-Con el Espíritu de Dios.-|| Satanás no podrá vencer, ¡gloria a Dios! ||-Y le vamos a ganar con Jesús el Capitán,-Satanás no podrá vencer. (Bis)"
+							}
+						]
+		},                
+		{
+			"id"      : 20,
+			"title"   : "20. HAY VIDA EN JESÚS",
+			"stanzas" : [
+							{
+								"title"   : "1",
+								"content" : "|| Hay vida, hay vida en Jesús ||-Yo voy a morar a la patria celestial,-Porque hay vida, hay vida en Jesús."
+							},
+							{
+								"title"   : "2",
+								"content" : "|| Hay gozo, hay gozo en Jesús ||-Yo voy a morar a la patria celestial,-Porque hay gozo, hay gozo en Jesús."
+							},
+							{
+								"title"   : "3",
+								"content" : "|| Hay triunfo, hay triunfo en Jesús ||-Yo voy a morar a la patria celestial,-Porque hay triunfo, hay triunfo en Jesús."
+							},
+							{
+								"title"   : "4",
+								"content" : "|| Hay vida, gozo y triunfo en Jesús ||-Yo voy a morar a la patria celestial,-Porque hay vida, gozo  y triunfo en Jesús."
+							}
+						]
+		},                
+		{
+			"id"      : 21,
+			"title"   : "21. HAY UN MOTIVO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Hay motivo que es de grande gozo,-Cristo Jesús ya vive en mí.-Pues en mi vida Cristo es mi todo,-Y muy feliz con Él seré.-Si estoy alegre, me aumenta el gozo.-Si pruebas tengo, triunfos me da.-Si estoy enfermo, Cristo me sana,-Y da a mi alma seguridad.-|| Manda, ¡oh Señor!, tu gran poder-Que tu santo fuego caiga sobre mí,-Manda, ¡oh Señor!, tu gran poder. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 22,
+			"title"   : "22. MI CORAZÓN CONTENTO ESTÁ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Mi corazón contento está,-Mi corazón contento está,-Porque el Señor ya me salvó ||-|| ¡Oh qué feliz! ¡oh qué feliz!-Se siente el alma con Jesús-Por la paz que ningún otro puede dar ||-|| Una mirada de fe, una mirada de fe-Es la que puede salvar al pecador ||-|| Y si tú vienes a Cristo Jesús,-Él te perdonará,-Porque una mirada de fe-Es la que te puede salvar. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 23,
+			"title"   : "23. UN RAYO DE LUZ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Un rayo de luz del cielo cayó ||-En vida de Pablo, en vida de Pablo,-En vida de Pablo que lo transformó.-¡Aleluya!, ¡Aleluya! Señor, yo te pido-Que mandes el rayo potente y divino,-Potente y divino tu santo poder.-|| Y yo diré: amén, para siempre amén. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 24,
+			"title"   : "24. VARONES GALILEOS",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Varones galileos: ¿Qué estáis mirando?-Mirando al Rey Jesús que sube al cielo,-En una nube blanca Él volverá-|| Y a los salvados levantará ||-|| Muy pronto vendrá Jesús el Nazareno ||-Y nos llevará al reino de los cielos;-||Cantando ¡Aleluya! allí nos gozaremos. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 25,
+			"title"   : "25. YO VIVO, SEÑOR, PORQUE TÚ VIVES",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Yo vivo, Señor, porque Tú vives,-Porque Tú vives, Señor, es que yo vivo.-Me das consuelo, me das abrigo-Y en la aflicción Tú, Señor, estás conmigo.-Soy salvo, Señor, pues me salvaste,-Pues me salvaste, Señor, eternamente.-|| Y voy al cielo, voy a la gloria,-Porque, Señor, Tú me diste la victoria. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 26,
+			"title"   : "26. YO SOY TESTIGO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Yo soy testigo del poder de Dios,-Por el milagro que Él ha hecho en mí:-Yo era ciego y ahora veo la luz,-La luz gloriosa que me dio Jesús.-|| Nunca, nunca, nunca me ha dejado;-Nunca nunca me ha desamparado;-En la noche oscura, en el día de prueba,-Jesucristo nunca me desamparará. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 27,
+			"title"   : "27. YO TENGO UN CRISTO VIVO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Yo tengo un Cristo vivo y su nombre es Jesús ||-|| Él me salvó y me libró,-Y con su Santo Espíritu mi alma elevó ||-|| ¡Qué bueno es tener un Cristo de poder! ||-|| ¡Que bueno es alabarle, también glorificarle,-Qué bueno es tener un Cristo de poder! ||"
+							}
+						]
+		},                
+		{
+			"id"      : 28,
+			"title"   : "28. YO ASCENDERÉ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Yo ascenderé, yo ascenderé,-Yo ascenderé en la primera ascensión.-Del norte vendrán, también vendrán del sur,-Del este y oeste se leventarán.-Y todos nos iremos, al cielo llegaremos,-Para morar con el Señor."
+							}
+						]
+		},                
+		{
+			"id"      : 29,
+			"title"   : "29. YO SÉ QUE AQUÍ ESTÁ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Yo sé que aquí está la gran bendición-Del Consolador que el Señor nos dio.-¿No la sientes tú? Ponte en comunión.-|| Vete a la oración, amén y habla con Jesús. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 30,
+			"title"   : "30. LUCAS 21 (PARA LA OFRENDA)",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Lucas 21, del verso 1 al 4,-Allí encontramos a la viuda que dio-De su sustento, de toda su pobreza,-Todo su amor allí depositó.-Los ricos dieron de lo que les sobraba,-Ese dinero no le agradó al Señor.-Amado hermano, si tú das para Cristo,-Recibirás de Él la bendición.-|| Bendición, bendición recibiré-Si confío en las promesas del Señor.-Cristo sana, salva, bautiza y da poder.-¡Aleluya, gloria a Dios! ||"
+							}
+						]
+		},                
+		{
+			"id"      : 31,
+			"title"   : "31. BENDITO JEHOVÁ LA ROCA",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Bendito sea Jehová, la Roca-Por toda la eternidad.-MI escondedero y mi refugio-Eres Tú, bendito Jehová.-En tu palabra esperaré-Y mi confianza en Ti pondré.-¡Oh gloria! ¡oh aleluya!-Amén, amén, amén, amén."
+							}
+						]
+		},                
+		{
+			"id"      : 32,
+			"title"   : "32. ¡BENDITO JEHOVÁ, DIOS DE ISRAEL!",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Bendito Jehová, Dios de Israel-Desde el siglo y hasta el siglo.-Y diga todo el pueblo: amén,-|| Amén, aleluya ||"
+							}
+						]
+		},                
+		{
+			"id"      : 33,
+			"title"   : "33. LÍBRATE DE LA IRA QUE VENDRÁ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Líbrate de la ira que vendrá ||-|| Cristo les dice a hombres y mujeres-Que todo el que creyere-La salvación tendrá. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 34,
+			"title"   : "34. QUEMA CON FUEGO DE GLORIA",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Quema, quema, quema con fuego de gloria.-Quema, quema, quema y saca la escoria.-Quema, quema, quema y ven ahora.-|| Quema con fuego divino, el Santo Poder,-Que nos da la victoria ||"
+							}
+						]
+		},                
+		{
+			"id"      : 35,
+			"title"   : "35. ¡QUÉ PRECIOSO ES!",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Qué precioso es, qué precioso es-Cantarle al Señor ||-|| ¡Oh hermanos!, vamos a cantarle,-¡Qué precioso es!, ¡qué precioso es!-Cantarle al Señor ||"
+							}
+						]
+		},                
+		{
+			"id"      : 36,
+			"title"   : "36. SUBIENDO VOY",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Subiendo voy, sí, voy subiendo, voy-A encontrar a Jesús, subiendo voy.-La trompeta yo oiré y este mundo dejaré-Transformado en gloria voy, subiendo voy. "
+							}
+						]
+		},                
+		{
+			"id"      : 37,
+			"title"   : "37. TESTIFIQUEMOS",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Testifiquemos que solo hay gozo.-Que solo hay paz y salvación-En nuestras almas.-Y lucharemos y venceremos,-Cristo nos guía con victoria-En la batalla.-|| Sonará la trompeta en Sión,-Sonará, sí sonará. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 38,
+			"title"   : "38. TENME BRILLINDO, SEÑOR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Tenme brillado, Señor,-Tenme brillado por Ti.-Puro y limpio seré si Tú brillas en mí.-Tenme brillado, Señor,-Tenme brillado por Ti.-Hasta que vengas pronto con poder.-Oh, llévame a la roca más alta, Señor,-Llévame, Señor, yo te seguiré.-Oh, llévame a la roca más alta, Señor,-Que solo en Ti refugio tendré."
+							}
+						]
+		},                
+		{
+			"id"      : 39,
+			"title"   : "39. PRONTO VENDRÁ EL SEÑOR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Pronto vendrá el Señor-Su Iglesia a levantar gloriosa.-La Iglesia que compró-A precio de sangre preciosa.-Los ángeles vendrán,-Allí se reunirá su pueblo.-|| Allí yo quiero estar para escuchar su voz-Cuando me diga: <<ven, buen siervo>>. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 40,
+			"title"   : "40. SOY FELIZ EN LA IGLESIA DE DIOS",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "||| Soy feliz en la Iglesia de Dios |||-¡Oh gloria!, aleluya, en la Iglesia de Dios.-Jesús fundó una Iglesia que la han de conocer-Por frutos y señales el mundo la ha de ver.-La Biblia nos enseña y no encontramos dos,-San Pablo nos enseña que es la Iglesia de Dios."
+							}
+						]
+		},                
+		{
+			"id"      : 41,
+			"title"   : "41. YA MI VIDA SE LA DEBO AL SEÑOR",
+			"stanzas" : [
+							{
+								"title"   : "1",
+								"content" : "|| Ya mi vida se la debo al Señor,-Porque Él murió en la cruz por mí. ||"
+							},
+							{
+								"title"   : "CORO:",
+								"content" : "|| Vida nueva encontré en la cruz de Jesús-Porque Cristo mi deuda pagó. ||"
+							},
+							{
+								"title"   : "2",
+								"content" : "|| Pecador el Santo Espíritu te llama a ti,-Ven a Cristo y salvo serás. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 42,
+			"title"   : "42. VAMOS CANTANDO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Vamos cantando hasta que baje el poder ||-Da gloria a Dios, da gloria a Él.-Vamos cantando hasta que baje el poder.-|| No te averguences y alaba a tu Señor ||-Da gloria a Dios, da gloria a Él.-No te averguences a alaba a tu Señor.-|| Alza tus manos y alaba a tu Señor ||-Da gloria a Dios, da gloria a Él.-Alza tus manos y alaba a tu Señor.-Yo siento gozo en mi alma, gozo en mi alma,-Gozo en mi alma y en mi ser,-¡Aleluya, gloria a Dios!-Son como ríos de agua viva, ríos de agua viva,-Ríos de agua viva en mi ser.-|| Es Cristo quien me hace cantar, ¡gloria a Dios! ||-De todos mis pecados libre soy y al cielo voy,-Es Cristo quien me hace cantar.-|| Yo canto porque Él me salvó, ¡gloria A Dios! ||-De todos mis pecados libre soy y al cielo voy,-Yo canto porque Él me salvo."
+							}
+						]
+		},                
+		{
+			"id"      : 43,
+			"title"   : "43. YO TENGO UN AMIGO QUE ME AMA",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Yo tengo un amigo que me ama,-Me ama, me ama.-Yo tengo un amigo que me ama,-Su nombre es Jesús.-|| Que me ama, que me ama,-Que me ama con sincero amor. ||-Tú tienes un amigo que te ama,-Te ama, te ama.-Tú tienes un amigo que te ama,-Su nombre es Jesús.-|| Que te ama, que te ama,-Que te ama con sincero amor. ||-Tenemos un amigo que nos ama,-Nos ama, nos ama.-Tenemos un amigo que nos ama,-Su nombre es Jesús.-|| Que nos ama, que nos ama,-Que nos ama con sincero amor. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 44,
+			"title"   : "44. LA GLORIA BAJÓ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Yo siento que la gloria bajó,-La gloria bajó, la gloria bajó,-Yo siento que la gloria bajó,-La gloria bajó a mí.-||| En el más allá veremos al Señor |||-En aquella santa Sión.-¡Aleluya, aleluya, aleluya,-Aleluya, aleluya, aleluya,-Aleluya la gloria bajó a mí!"
+							}
+						]
+		},                
+		{
+			"id"      : 45,
+			"title"   : "45. LAS CALLES DE ORO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Quiero andar las calles de oro con Jesús ||-|| Quiero andar las calles de oro ||-Quiero andar las calles de oro con Jesús.-Y para andar las calles de oro con Jesús-Debo vivir bajo el amparo de su luz,-Su palabra obedecer y su Espíritu tener,-Para andar las calles de oro con Jesús."
+							}
+						]
+		},                
+		{
+			"id"      : 46,
+			"title"   : "46. LA MADRUGADA",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| La madrugada aún estaba oscura-Y yo buscaba el rostro del Señor ||-|| Señor, Señor, ten compación de mí,-Resuelve mis problemas,-Que yo confío en Ti. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 47,
+			"title"   : "47. LAS AGUAS DEL RÍO DEL JORDÁN",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Las aguas del río del Jordán,-Limpiaron la lepra de Naamán ||-|| Y si te lavas en la sangre, la sangre,-La sangre de Crito te puede limpiar. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 48,
+			"title"   : "48. LA GLORIA DE JEHOVÁ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| La gloria de Jehová cayó en el Sinaí-Y aquel monte temblaba porque Dios estaba allí. ||-|| Dios estaba allí, Dios estaba allí,-Y aquel monte temblaba porque Dios estaba allí. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 49,
+			"title"   : "49. LAS PROMESAS DEL SEÑOR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Las promesas del Señor mías son, mías son ||-En la Biblia yo lo leo y yo sé que es la verdad,-Las promesas del Señor mías son."
+							}
+						]
+		},                
+		{
+			"id"      : 50,
+			"title"   : "50. LOS SALVADOS CANTAN",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Los salvados cantan y se alegran ya,-El Señor los mira y dide desde allá:-|| <<¡Qué alegre y contento está mi pueblo amado-Cantando alabanzas al Señor Jehová!>> ||"
+							}
+						]
+		},                
+		{
+			"id"      : 51,
+			"title"   : "51. LEVÁNTATE, PUEBLO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Levántate, pueblo que ahí viene tu Rey,-Viene en una nuve con gran poder.-Cristo viene pronto por segunda vez-Y nos llevará a la Jerusalén"
+							}
+						]
+		},                
+		{
+			"id"      : 52,
+			"title"   : "52. LA IGLESIA ES TUYA",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "La Iglesia es tuya, Señor, te pedimos,-Tu santa presencia queremos tener.-El tiempo vuela y nosotros dormimos,-Por eso pedimos tu santo poder.-Aviva tu obra en medio de los tiempos,-Porque indiferente está por doquier.-|| Derrama, ¡oh Cristo bueno!-Un gran avivamiento,-Que sienta tu pueblo tu santo poder. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 53,
+			"title"   : "53. DAME UN NUEVO CORAZÓN",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Dame un nuevo corazón,-Que te alabe noche y día.-Dame un nuevo corazón,-¡Oh Jesús! Tú eres mi guía.-Dame un nuevo corazón,-Y que sea morada tuya.-|| Dame un nuevo corazón ||-¡Aleluya!"
+							}
+						]
+		},                
+		{
+			"id"      : 54,
+			"title"   : "54. EN EL AÑO DEL JUBILEO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "En el año del jubileo, en el año del Señor,-Se abren las priciones y todos libres son.-Liberación gloriosa ofrece el Salvador,-En el año del jubileo, en el año del Señor."
+							}
+						]
+		},                
+		{
+			"id"      : 55,
+			"title"   : "55. ESTA ES LA IGLESIA DEL SEÑOR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Esta es la Iglesia del Señor,-Casa de Dios, puerta del cielo es.-Él la llamó su casa de oración,-Porque esta es la Iglesia del señor."
+							}
+						]
+		},                
+		{
+			"id"      : 56,
+			"title"   : "56. HÁBLAME, SEÑOR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Háblame, Señor, al corazón,-Quiero escuchar tu dulce voz ||-|| Todos mi pecados fueron perdonados-Porque solamente Tú eres Dios. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 57,
+			"title"   : "57. EL DADOR ALEGRE (PARA LA OFRENDA)",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Dios bendice al dador alegre,-Sí, lo bendice;-La Biblia lo dice y es verdad.-¡Aleluya! Dios bendice al dador alegre,-Sí, lo bendice;-La Biblia lo dice y es la verdad ||-|| Mi ofrenda doy, mi ofrenda doy,-¡Aleluya! mi ofrenda doy,-Así contribuyendo,-El evangelio extiendo-¡Aleluya! mi ofrenda doy. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 58,
+			"title"   : "58. DEMOS GRACIAS AL SEÑOR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Demos gracias al Señor, demos gracias,-Demos gracias por su amor ||-Por las mañanas las aves cantan-Las alabanzas a Cristo el Salvador.-Y tú, amigo, ¿por qué no cantas-Las alabanzas a Cristo el Salvador?"
+							}
+						]
+		},                
+		{
+			"id"      : 59,
+			"title"   : "59. LOS QUE SIGUEN AL CORDERO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Estos son los que siguen al Cordero ||-Y le alaban de día y de noche al Señor,-Estos son los que siguen al Cordero."
+							}
+						]
+		},                
+		{
+			"id"      : 60,
+			"title"   : "60. LA GLORIA ES PARA ÉL",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "En la Iglesia la gloria es para Él,-Para Él, para Él, para Él, para Él.-En la Iglesia la gloria es para Él,-Ahora y por la eternidad.-Para Él, para Él, para Él, para Él,-En la Iglesia la gloria es para Él,-Ahora y por la eternidad."
+							}
+						]
+		},                
+		{
+			"id"      : 61,
+			"title"   : "61. ENGRANDECE MI ALMA AL SEÑOR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Engrandece mi alma al Señor ||-Y mi espíritu se regocija en Dios,-En Dios, mi Salvador."
+							}
+						]
+		},                
+		{
+			"id"      : 62,
+			"title"   : "62. HAY UNA TIERRA NUEVA",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "||| Hay una tierra nueva |||-Donde mora Jesús, mi Salvador.-||| Allí yo quiero estar |||-Donde mora Jesús, mi Salvador.-||| Enfermedad no habrá |||-Donde mora Jesús, mi Salvador.-||| Tribulación no habrá |||-Donde mora Jesús, mi Salvador."
+							}
+						]
+		},                
+		{
+			"id"      : 63,
+			"title"   : "63. ESTOY ALEGRE",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Estoy alegre, alegre muy alegre,-Estoy alegre porque Cristo me salvó ||-¡Oh gloria a Dios!-|| Y sigo alegre, alegre muy alegre,-Y sigo alegre porque Cristo me salvó ||-¡Oh gloria a Dios!-|| Por eso canto, yo canto ¡Aleluya!-Por eso canto, ¡Aleluya, gloria a Dios! ||-¡Oh gloria a Dios!"
+							}
+						]
+		},                
+		{
+			"id"      : 64,
+			"title"   : "64. HAY PERDÓN",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Hay perdón por la sangre de Jesús,-Hay perdón por su muerte en la cruz.-Proclamad que hay perdón,-Para todos hay perdón,-Los que acuden al Señor Jesús."
+							}
+						]
+		},                
+		{
+			"id"      : 65,
+			"title"   : "65. UNOS BRAZOS HUMILDES",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Unos brazos humildes se abrieron-En la trágica cruz del Calvario ||-|| Para dar salvación a este mundo pecador-Y librarnos del mal que vendrá. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 66,
+			"title"   : "66. AMO AL SEÑOR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Amo al Señor, amo al Señor-Porque Él me ama ||-Mi corazón rebosa de amor por Cristo,-Yo le amaré por la eternidad."
+							}
+						]
+		},                
+		{
+			"id"      : 67,
+			"title"   : "67. MARAVILLOSO ES ÉL",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "||| Maravilloso es Él |||-Cristo el Señor.-||| Soberano es Él |||-Cristo el Señor.-||| Inigualable es Él |||-Cristo el Señor.-||| Ensalzado es Él |||-Cristo el Señor.-||| Omnipotente es Él |||-Cristo el Señor.-||| Poderoso es Él |||-Cristo el Señor."
+							}
+						]
+		},                
+		{
+			"id"      : 68,
+			"title"   : "68. ESTAMOS DE FIESTA CON JESÚS",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Estamos de fiesta con Jesús,-Al cielo queremos ir,-Donde todos reunidos estaremos,-Es Cristo quien va a servir.-|| Poderoso es el Señor ||-|| Poderoso es el Señor ||-Él sana, Él salva, poderoso es el Señor.-|| Poderoso es el Señor ||-|| Poderoso es el Señor ||-Él viene, Él viene, poderoso es el Señor.-|| Poderoso es el Señor ||-|| Poderoso es el Señor ||"
+							}
+						]
+		},                
+		{
+			"id"      : 69,
+			"title"   : "69. EL ESPÍRITU DE DIOS SE MUEVE EN MÍ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Si el Espíritu de Dios se mueve en mí-Yo canto con gran fervor ||-|| Yo canto, yo canto, yo canto para el Señor. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 70,
+			"title"   : "70. SANTO, SANTO, SANTO DICEN LOS QUERUBINES",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Santo, Santo, Santo dicen los querubines.-Santo, Santo, Santo es el Señor Jehová.-Santo, Santo, Santo es el que nos redime.-|| Porque mi Dios es Santo-La tierra llena de su gloria está ||-|| Cielo y tierra pasarán,-Mas su palabra no pasará ||-No, no, no pasarán.-No, no, no, no, no, no pasará.-Estamos pidiendo un avivamiento,-Estamos pidiendo que baje el poder.-|| El poder del Padre, el poder del Hijo,-El poder del Santo Espíritu también. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 71,
+			"title"   : "71. ESTE AVIVAMIENTO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Este avivamiento, ¿quién lo quitará-Quién lo quitará, quién lo quitará?-El Señor lo ha dado y eso bastará-Y eso bastará y eso bastará.-Que tu Espíritu me inunde-De poder y gran virtud,-|| Manda fuego, santifícame, Señor. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 72,
+			"title"   : "72. EL ESPÍRITU DE DIOS SE MUEVE",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "El Espíritu de Dios se mueve,-Se mueve, se mueve.-El Espíritu de Dios se mueve,-Dentro de mi corazón.-¡Oh hermano! deja que se mueva,-Se mueva, se mueva.-¡Oh hermano! deja que se mueva-Dentro de tu corazón"
+							}
+						]
+		},                
+		{
+			"id"      : 73,
+			"title"   : "73. YO SIENTO PAZ Y GOZO EN MI CORAZÓN",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Yo siento paz y gozo en mi corazón-Porque Jesucristo a mí me libertó ||-|| Me libertó, me libertó-De las cadenas me libertó. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 74,
+			"title"   : "74. NO PUEDE ESTAR TRISTE",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| No puede estar triste-Un corazón que tiene a Cristo.-No puede estar triste-Un corazón que tiene a Dios ||-|| Canta con gozo, alaba a mi Cristo.-No puede estar triste-Un corazón que tiene a Dios. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 75,
+			"title"   : "75. ORANDO A MI SEÑOR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Orando, orando, orando a mi Señor.-Siempre estamos orando por el Consolador.-Orando a mi Señor, Él oirá-Y dones celestiales nos concederá."
+							}
+						]
+		},                
+		{
+			"id"      : 76,
+			"title"   : "76. ¡QUÉ GLORIOSO ES ANDAR CON ÉL!",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| ¡Qué glorioso es andar con Él! ||-Él mis pasos guiará y al fin me llevará.-¡Qué glorioso es andar con Él!"
+							}
+						]
+		},                
+		{
+			"id"      : 77,
+			"title"   : "77. ¿QUIÉN COMO TÚ, JEHOVÁ?",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| ¿Quién como Tú, Jehová, entre los dioses? ||-¿Quién como Tú, magnífico en santidad,-Terrible en loores,-Hacedor de maravillas?"
+							}
+						]
+		},                
+		{
+			"id"      : 78,
+			"title"   : "78. QUE NO SE ACABE EL GOZO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Que no se acabe el gozo-Que hay en mi corazón.-Que no se acabe nunca,-Que siga más y más y más ||-|| Dame gozo, Señor, dame paz y amor-En aquella ciudad más allá del sol. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 79,
+			"title"   : "79. SOY LIBERTADO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Soy libertado, ¡gloria a Dios!-Pues su palabra dice así;-De Satanás una vez fui esclavo.-Soy libertado, ¡gloria a Dios!"
+							}
+						]
+		},                
+		{
+			"id"      : 80,
+			"title"   : "80. ALABAD A JEHOVÁ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Alabad a Jehová naciones todas,-Pueblos todos, alabadle.-Porque ha engrandecido sobre nosotros-Su misericordia.-Y la verdad de Jehová-Es para nosotros, ¡Aleluya!, amén.-Y la verdad de Jehová.-¡Aleluya!, es para siempre, amén."
+							}
+						]
+		},                
+		{
+			"id"      : 81,
+			"title"   : "81. EN EL MONTE HOREB",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Allá en el monte Horeb una zarsa ardía ||-Moisés quería saber por qué la zarsa ardía-Y no se consumía, quería saber.-|| Oyó una voz del cielo que le decía: ||-|| <<Quita, quita, quita el calzado-De tus pies, porque el lugar-Que pisas santo es>> ||"
+							}
+						]
+		},                
+		{
+			"id"      : 82,
+			"title"   : "82. COMO LAS HORAS DEL DÍA",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Como las horas del día-Pasan y no vuelven más,-Así pasa la alegría-Que este mundo puede dar.-Nunca pasa la alegría-Que mi Cristo te dará,-|| Si vienes arrepentido-De rodillas al altar. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 83,
+			"title"   : "83. EN ESTA REUNIÓN CRISTO ESTÁ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "En esta reunión Cristo está,-Pues Él ha prometido estar.-<<Donde dos o tres en mi nombre estén,-Allí estaré, allí estaré, allí estaré>>.-|| Yo lo siento en mí, yo lo siento en mí,-Pues su Santo Espíritu me hace cantar. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 84,
+			"title"   : "84. SI AQUÍ SE SIENTE GOZO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Si aquí se siente gozo-En este hogar sagrado.-Si aquí se siente gozo-Estando congregados.-Si aquí se siente gozo,-¿Cómo será en el cielo?-|| Cuando estemos con Cristo,-¡Aleluya! ¡oh qué bueno! ||"
+							}
+						]
+		},                
+		{
+			"id"      : 85,
+			"title"   : "85. TRES COSAS QUIERO YO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Tres cosas quiero yo-Que Tú me des, Señor ||-|| Esas tres cosas son: Amor y santidad,-Y los dones preciosos del gran Consolador. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 86,
+			"title"   : "86. VA BAJANDO YA",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Va bajando ya, va bajando ya,-Va bajando la gloria de Jehová.-Si su pueblo empieza a orar-Y deja al Señor obrar,-Va bajando la gloria de Jehová."
+							}
+						]
+		},                
+		{
+			"id"      : 87,
+			"title"   : "87. JEHOVÁ ES MI PASTOR",
+			"stanzas" : [
+							{
+								"title"   : "1",
+								"content" : "Si me faltan mis padres,-Tú no me faltarás,-Y si todos me abandonan,-Tú me recogerás.-En medio de las pruebas,-Tú me consolarás."
+							},
+							{
+								"title"   : "CORO:",
+								"content" : "|| Jehová es mi Pastor,-Nada a mí me faltará ||"
+							},
+							{
+								"title"   : "2",
+								"content" : "En horas de tristeza,-En horas de dolor,-Traigo a Ti mi vida-Bendito Salvador.-En Ti paz y consuelo-Mi alma encontrará."
+							},
+							{
+								"title"   : "3",
+								"content" : "La hora ya se acerca-Cuando Jesús vendrá.-LA Iglesia que le espera-En gloria le verá.-En gloria infinita-Al mundo alumbrará."
+							}
+						]
+		},                
+		{
+			"id"      : 88,
+			"title"   : "88. SEÑOR JEHOVÁ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Señor Jehová: ¿Quién estará-En el lugar de tu santidad? ||-|| El limpio de manos, de corazón puro,-Que no sea vanidoso, ni haga maldad. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 89,
+			"title"   : "89. SU GLORIA CUBRIÓ LOS CIELOS",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Su gloria cubrió los cielos-Y la tierra se llenó de su alabanza ||-|| Y el resplandor fue como la luz,-Rayos brillantes salían de su mano. ||"
+							}
+						]
+		},                
+		{
+			"id"      : 90,
+			"title"   : "90. TOMA, POR FAVOR, MI MANO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Toma, por favor mi mano, Señor,-Contigo quiero ir.-Con sangre aquí, pagaste por mí,-Te quiero hoy servir-Anhelo poder lo malo vencer-Y en santidad vivir.-Toma, por favor, mi mano Señor,-Contigo quiero ir."
+							}
+						]
+		},     
+		{
+			"id"      : 91,
+			"title"   : "91. SI ALLÁ EN EL DESIERTO",
+			"stanzas" : [
+							{
+								"title"   : "1",
+								"content" : "|| Si allá en el desierto me buscares,-Allá en el desierto estoy contigo ||"
+							},
+							{
+								"title"   : "CORO:",
+								"content" : "|| Recuerda las palabras que dicen:-<<Yo soy el camino, la verdad y la vida>> ||"
+							},
+							{
+								"title"   : "2",
+								"content" : "|| Mira que te mando que te esfuerces,-Que seas muy valiente y buen soldado. ||"
+							}
+						]
+		},        		
+		{
+			"id"      : 92,
+			"title"   : "92. SEÑOR JEHOVÁ, TÚ ESTÁS CONMIGO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Señor Jehová, Tú estás conmigo.-Tú eres mi amparo, Tú eres mi amigo ||-|| Jehová me dice que no tema ni desmaye,-Porque Él irá conmigo-Donde quiera que yo vaya. ||"
+							}
+						]
+		},       		
+		{
+			"id"      : 93,
+			"title"   : "93. SOLAMENTE EN CRISTO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Solamente en Cristo, solamente en Él,-La salvación se encuentra en Él.-No hay otro nombre dado a los hombres,-Solamente en Cristo, solamente en Él."
+							}
+						]
+		},        		
+		{
+			"id"      : 94,
+			"title"   : "94. SANTIFÍCAME, SEÑOR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Santifícame, Señor, en tu verdad,-En tu verdad, ¡oh Jehová!-Hazme santo como Tú-En la patria celestial.-Santifícame, Señor, en tu verdad."
+							}
+						]
+		},       		
+		{
+			"id"      : 95,
+			"title"   : "95. SOY DEUDOR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Soy deudor, soy deudor-Por las almas que van sin salvación ||-|| Y por ellas me desvelo,-Heme aquí, envíame, Señor. ||"
+							}
+						]
+		},       		
+		{
+			"id"      : 96,
+			"title"   : "96. SI NO HUBIERA SIDO POR EL SEÑOR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Si no hubiera sido por el Señor ||-|| Mi alma se hubiera perdido-Si no hubiera sido por el Señor. ||"
+							}
+						]
+		},       		
+		{
+			"id"      : 97,
+			"title"   : "97. SIN SANTIDAD NADIE VERÁ AL SEÑOR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Sin santidad nadie verá al Señor ||-|| Pero yo sé, pero yo sé-Que le veré, que le veré-Y con su Espíritu me santificaré. ||"
+							}
+						]
+		},       		
+		{
+			"id"      : 98,
+			"title"   : "98. SOBRE LA PEÑA MI CASA ESTÁ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Sobre la peña mi casa está,-Firme sobre ella se quedará.-Tempestades la podrán batir,-|| Pero no podrán a mi casa hundir. ||"
+							}
+						]
+		},       		
+		{
+			"id"      : 99,
+			"title"   : "99. MIRA CUÁL AMOR",
+			"stanzas" : [
+							{
+								"title"   : "1",
+								"content" : "|| Mira cuál amor nos ha dado el Padre-Que seamos hechos los hijos de Dios ||-|| Por eso el mundo ya no nos conoce,-Porque a Él tampoco le reconoció ||"
+							},
+							{
+								"title"   : "2",
+								"content" : "|| El mundo malo viviendo en pecado,-Por no conocerle le crucificó ||-|| Por eso el mundo ya no nos conoce,-Porque a Él tampoco le reconoció. ||"
+							}
+						]
+		},       		
+		{
+			"id"      : 100,
+			"title"   : "100. MOISÉS RESPLANDECÍA",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Moisés resplandecía bajando el Sinaí,-Su rostro se veía radiante como el sol.-También en esos días cuando venga el Señor,-|| Su Iglesia que le espera-También resplandecerá. ||"
+							}
+						]
+		},       		
+		{
+			"id"      : 101,
+			"title"   : "101. NO A NOSOTROS, ¡OH JEHOVÁ!",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| No a nosotros, no a nosotros, ¡oh Jehová! ||-|| Sino a tu nombre da gloria, gloria, ¡Aleluya!,-Por tu misericordia y tu verdad. ||"
+							}
+						]
+		},       		
+		{
+			"id"      : 102,
+			"title"   : "102. SI MI PUEBLO SE HUMILLARE",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Si mi pueblo se humillare y clama a mí ||-|| Yo le oiré y le responderé-Y nunca tendrá falta de ningún bien. ||"
+							}
+						]
+		},       		
+		{
+			"id"      : 103,
+			"title"   : "103. NO HAY DIOS TAN GRANDE COMO TÚ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| No hay Dios tan grande como Tú,-No lo hay, no lo hay ||-|| No hay Dios que pueda hacer las obras-Como las que haces Tú ||-No es con espada ni con ejército-Mas con tu Santo Espíritu.-||| Y esta Iglesia se moverá |||-Con tu Santo Espíritu."
+							}
+						]
+		},       		
+		{
+			"id"      : 104,
+			"title"   : "104. NOS VAMOS A GOZAR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Nos vamos a gozar, nos vamos a gozar,-A las bodas del Cordero-Nos vamos a gozar ||-|| Y luego nos iremos a la patria celestial-A vivir con Jesucristo por la eternidad ||-Me veréis en gloria.-||| Me veréis |||-Me veréis en gloria, me veréis,-|| Cantando alegre por toda la eternidad ||"
+							}
+						]
+		},       		
+		{
+			"id"      : 105,
+			"title"   : "105. SOLO EL PODER DE DIOS",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Solo el poder de Dios puede cambiar tu ser.-La prueba yo te doy, Él me ha cambiado a mí.-No ves que soy feliz sirviendo al Señor,-Nueva criatura soy, nueva soy."
+							}
+						]
+		},       		
+		{
+			"id"      : 106,
+			"title"   : "106. CRISTO ESLA ROCA DE PODER",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Cristo es la roca de poder.-Escóndeme, escóndeme,-Hasta que pase, ¡oh Señor!, la tempestad.-Escóndeme, escóndeme con poder.-Cristo es la roca de poder.-Él calmará la tempestad.-Tú eres Jesús, mi Salvador,-Escóndeme, escóndeme con tu poder."
+							}
+						]
+		},       		
+		{
+			"id"      : 107,
+			"title"   : "107. DESPIÉRTAME, SEÑOR JESÚS",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Despiértame, Señor Jesús,-Despiértame, quiero triunfar,-Despiértame, Señor Jesús,-Con fuego espiritual.-Y allá en la gloria me verás,-Me verás, me verás.-Y allá en la gloria me verás,-|| Cantando alabanzas por toda la eternidad. ||"
+							}
+						]
+		},   
+		{
+			"id"      : 108,
+			"title"   : "108. COMO EL ARCA DE NOÉ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Como el arca de Noé sobre las aguas-Se mecía bajo el soplo de los vientos,-Los que en ella muy contentos se encontraban,-Alababan el nombre del Señor.-Hoy nosotros como aquellos demos gloria-Al Autor de nuestra salvación-Y con gran devoción edifiquemos-Un altar en cada corazón.-¡Qué hermoso es el amor de Cristo,-¡Qué hermoso su inmenso amor!-Amigo, ahora el arca-Es Jesucristo mi Salvador."
+							}
+						]
+		},        		
+		{
+			"id"      : 109,
+			"title"   : "109. CRISTO ROMPE CADENAS",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "||| Cristo rompe las cadenas |||-Y nos da seguridad.-¿Cómo es posible yo vivir sin mi Jesús?-Si el fundamentode mi vida eres Tú.-Tú me libraste del infierno y de la muerte,-¿Cómo es posible yo vivir sin mi Jesús?"
+							}
+						]
+		},        		
+		{
+			"id"      : 110,
+			"title"   : "110. JEHOVÁ, TÚ ERES MI DIOS",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "||| Jehová, Tú eres mi Dios,-Alabaré y ensalzaré tu nombre |||-|| Porque has hecho maravillas,-Alabaré y ensalzaré tu nombre. ||"
+							}
+						]
+		},        		
+		{
+			"id"      : 111,
+			"title"   : "111. ARDIENDO EN FUEGO",
+			"stanzas" : [
+							{
+								"title"   : "1",
+								"content" : "|| Ardiendo en fuego mi alma está ||-Gloriosa llama me limpiará,-¡Oh aleluya! mi alma ardiendo está.-¡Oh Señor! quiero que ardas en mi ser,-Como la zarza que ardió con tu poder.-Hablar en nuevas lenguas es esa señal-Que derramado ha sido el Fuego celestial.-Quiero alabarte y adorarte solo a Ti,-Como se adora en espíritu, en verdad.-¡Oh Señor! quiero que ardas en mi ser,-Como la zarza que ardió con tu poder."
+							},
+							{
+								"title"   : "CORO:",
+								"content" : "Fuego, Fuego, Fuego es lo que quiero.-Mándalo, mándalo, Mándalo, Señor.-Todas las promesas que me des yo quiero,-Dones del Espíritu Consolador."
+							},
+							{
+								"title"   : "2",
+								"content" : "Si Tú bautizas, Señor, con santo Fuego;-El santo Fuego de Dios Pentecostés;-A cada uno le será concedida-Tu bendición para provecho espiritual.-Si Tú me unges, Señor, para servirte,-Estaré en camino a tu reino eternal.-|| ¡Oh fuego santo ven!-ven que te espero yo,-Ven llena mi alma de esa virtud. ||"
+							}
+						]
+		},        		
+		{
+			"id"      : 112,
+			"title"   : "112. LA FUENTE DE ARRIBA",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "La fuente de arriba fluyendo está-Agua de vida que sacia tu sed.-Si tomas de ella jamás tendrás sed,-Y gozo en el cielo tú puedes tener."
+							}
+						]
+		},        		
+		{
+			"id"      : 113,
+			"title"   : "113. LEVANTEN LA BANDERA",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Levanten la bandera los hijos del Señor. ||-|| Cuando Cristo venga todo será canto,-Todos cantaremos glorias al Señor. ||"
+							}
+						]
+		},        		
+		{
+			"id"      : 114,
+			"title"   : "114. YA ES TIEMPO, MIS HERMANOS",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Ya es tiempo, mis hermanos, levantarnos-Del fatal y largo sueño despertarnos.-Y llevar a toda criatura-El mensaje de paz y salvación.-¿Quién irá? ¿Quién irá?-¿Quién la luz les llevará?-¿Quién irá? ¿Quién irá?-¿Quién testigo fiel será?-En la viña son pocos los obreros.-¿Quién irá? ¿Quién irá a su viña hoy?-Yo iré, yo iré, yo la luz les llevaré.-Yo iré, yo iré, yo testigo fiel seré.-En la viña son pocos los obreros,-Yo iré, yo iré a su viña hoy."
+							}
+						]
+		},        		
+		{
+			"id"      : 115,
+			"title"   : "115. FUEGO DEL CIELO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Fuego, fuego, fuego del cielo queremos ||-|| Hermanos, vamos a pedir el fuego de Dios. ||"
+							}
+						]
+		},        		
+		{
+			"id"      : 116,
+			"title"   : "116. PODER NECESITAMOS",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Poder de Dios, poder necesitamos-Para vencer las huestes del maligno.-Dará Jehová a su pueblo poder,-Y así sana doctrina extender."
+							}
+						]
+		},        		
+		{
+			"id"      : 117,
+			"title"   : "117. ORANDO SIN CESAR VENCEREMOS",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Orando sin cesar venceremos ||-Para poder vencer necesitas el poder,-En el nombre de Jesús venceremos.-Venceré, porque Él está conmigo.-Venceré, porque es mi amigo fiel.-|| Venceré, venceré; vencerás, vencerás-En el nombre de Jesús venceremos ||"
+							}
+						]
+		},        		
+		{
+			"id"      : 118,
+			"title"   : "118. ¿PARA QUÉ PECAR?",
+			"stanzas" : [
+							{
+								"title"   : "1",
+								"content" : "¿Para qué pecar? si soy salvo,-Si ya tengo tanta luz.-¿Para qué pecar? si la vida-Dios me ha dado en Jesús.-¿Para qué pecar? si el infierno-Solo espera al pecador."
+							},
+							{
+								"title"   : "CORO:",
+								"content" : "|| ¿Para qué pecar, para qué pecar,-Para qué pecar contra Dios? ||"
+							},
+							{
+								"title"   : "2",
+								"content" : "Es mejor vivir santamente,-Victorioso contra el mal.-Pues Jesús prepara a sus santos-Una patria eternal.-Una patria hermosa en los cielos-Donde inmundo no entrará. "
+							}
+						]
+		},        		
+		{
+			"id"      : 119,
+			"title"   : "119. CADA DÍA CON CRISTO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Cada día con Cristo,-Me llena de perfecta paz.-Cada día con Cristo,-Le amo más y más.-Él me salva y guarda-Y sé que Él pronto volverá-Y vivir con Cristo-Más dulce cada día será."
+							}
+						]
+		},        		
+		{
+			"id"      : 120,
+			"title"   : "120. ANDO CON CRISTO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Ando con Cristo, en sombras y en luz,-Estoy con mi Jesús.-Ando con Cristo, Él es mi amigo mejor."
+							}
+						]
+		},        		
+		{
+			"id"      : 121 ,
+			"title"   : "121 . NO, NUNCA CEDEREMOS",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "No, nosotros nunca, nunca cederemos al mal;-Nunca, no, ¡aleluya! nunca, no, no, no.-No, nosotros nunca, nunca cederemos al mal;-Nos espera corona en el cielo."
+							}
+						]
+		},        		
+		{
+			"id"      : 122,
+			"title"   : "122. ÉL TRAJO GOZO A MI SER",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Él trajo gozo a mi ser ||-Ahora cada día me ama fiel.-Él trajo gozo a mi ser."
+							}
+						]
+		},        		
+		{
+			"id"      : 123,
+			"title"   : "123. ¡ALELUYA, GLORIA A JESÚS!",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "¡Aleluya, gloria a Jesús!-Démosle loor cantando con fervor.-¡Aleluya, gloria a Jesús!-Nos ha dado gozo y luz.-Rey de gloria es el Salvador,-Grande es su amor y démosle honor.-Rey de gloria es el Salvador-Y ensalcemos alabanzas a Jesús."
+							}
+						]
+		},        		
+		{
+			"id"      : 124,
+			"title"   : "124. SERÉ FELIZ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Seré feliz, cuando Él vendrá-Y la victoria ganará.-No habrá tristeza en ese día.-Seré feliz, cuando Él vendrá."
+							}
+						]
+		},        		
+		{
+			"id"      : 125,
+			"title"   : "125. CLAMA A MÍ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "<<Clama a mí y te responderé,-Clama a mí y te enseñaré-Cosas grandes que no sabes>>,-Dice nuestro Dios;-Pues oremos sin dudar jamás,-Y tendremos bendición y paz,-Ganaremos la victoria, ¡gloria a Dios!"
+							}
+						]
+		},        		
+		{
+			"id"      : 126,
+			"title"   : "126. VIENE EL DÍA",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Viene el día, viene el día-En que Cristo volverá.-Viene el día, viene el día,-La trompeta sonará.-De los cielos el Señor descenderá-Y a los fieles todos nos coronará."
+							}
+						]
+		},         		
+		{
+			"id"      : 127,
+			"title"   : "127. ABOGADO TENEMOS EN CRISTO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Abogado tenemos en Cristo,-El Santo Hijo de Dios, el Justo,-Que con su sangre preciosísima-Nos rescató del mal.-Si alguno hubiere pecado,-En redes de Satanás caído,-Alcanzará por fe en Cristo-La propiciación total."
+							}
+						]
+		},        		
+		{
+			"id"      : 128,
+			"title"   : "128. SOY FELIZ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Soy feliz, soy feliz,-Desde que encontré la salvación en Cristo;-Con amor el Señor mostrome la verdad y vida.-Soy feliz, soy feliz, siempre cantaré-Con dicha indecible e indestructible,-Tengo paz perfecta y siempre soy feliz."
+							}
+						]
+		},        		
+		{
+			"id"      : 129,
+			"title"   : "129. SERVIRÉ A TI, SEÑOR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Serniré a Ti, Señor-Donde Tú me indicarás.-Trabajando con alegría-Como Tú me mandarás.-Donde hay un alma triste-En pecado y dolor,-Te sigo Cristo a rescatarla-Sirviéndote con fervor."
+							}
+						]
+		},        		
+		{
+			"id"      : 130,
+			"title"   : "130. SUENAN MELODÍAS EN MI SER",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Suenan melodías en mi ser,-Cantos de amor loando al Salvador.-Suenan melodías en mi ser,-Alabanzas a Jesús."
+							}
+						]
+		},        		
+		{
+			"id"      : 131,
+			"title"   : "131. EN MI MANSIÓN",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "En mi mansión, en mi mansión.-En el lugar que Cristo me preparó-Con gozo y paz veré la faz-De Jesucristo, mi Señor."
+							}
+						]
+		},        		
+		{
+			"id"      : 132,
+			"title"   : "132. POR LA FE SALVO SOY",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Por la fe salvo soy en Cristo Rey.-Por su gracia me buscó,-Con su sangre me compró.-Por la fe salvo soy en Cristo Rey-Y no por mis obras, mas por la fe."
+							}
+						]
+		},        		
+		{
+			"id"      : 133,
+			"title"   : "133. CON FE MARCHEMOS",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Con fe marchemos; adelante, sin temor, cristianos;-Cristo el Capitán está guiando,-Siempre Él nos da la orden: <<¡Adelante!>>-<<¡A la batalla!>> No tememos nada de Satán.-Oh sí cristianos, vamos adelante con afán. "
+							}
+						]
+		},        		
+		{
+			"id"      : 134,
+			"title"   : "134. TÚ ERES EL CAMINO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Tú eres el Camino, la Vida y la Verdad.-¡Oh Cristo mío, cuánto te amo!-Por eso mi futuro contigo es seguro,-Voy pues, gozando en tu bondad.-Y si las asechanzas satánicas-Me asaltan a diario con furor,-Sé que tú eres mi camino, mi vida y mi verdad.-Voy pues, gozando en tu bondad."
+							}
+						]
+		},        		
+		{
+			"id"      : 135,
+			"title"   : "135. PROCURA CON DILEGENCIA",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Procura con diligencia-Presentarte a Dios ||-Aprovado como obrero-Que no tiene de qué avergonzarse.-Que traza bien la palabra de verdad."
+							}
+						]
+		},        		
+		{
+			"id"      : 136,
+			"title"   : "136. CRISTO ES MI FUERTE",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Cristo es mi fuerte en la tentación,-Me consuela en la dura aflicción-Y en cada lucha con el tentador,-Con Él cerca salgo más que vencedor.-Cristo es mi fuerte en la tentación."
+							}
+						]
+		},        		
+		{
+			"id"      : 137,
+			"title"   : "137. ¡QUÉ MARAVILLA!",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "¡Qué maravilla que Cristo me halló!-Y por su gracia mi alma salvó.-¡Qué maravilla! me infunde alegría,-Pues todas mis culpas su sangre borró."
+							}
+						]
+		},        		
+		{
+			"id"      : 138,
+			"title"   : "138. CRISTO CONSOLADOR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Cristo Consolador, Jesucristo, el buen Pastor.-No hay otro en el mundo que merezca tanto honor.-Cristo libertador es mi roca y defensor,-En su nombre hay paz, salvación, solaz.-Jesucristo, buen Salvador."
+							}
+						]
+		},        		
+		{
+			"id"      : 139,
+			"title"   : "139. ÉL HIZO TANTO PARA MÍ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Él hizo tanto para mí ||-Jamás podré contarles la mitad de los cosas-Que el Señor ha hecho para mí."
+							}
+						]
+		},        		
+		{
+			"id"      : 140,
+			"title"   : "140. YO ANHELO UN DÍA VER A CRISTO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Yo anhelo un día ver a Cristo,-Este anhelo arde en mi corazón.-Y cansado estoy del mundo,-Vacío es para mí;-Yo anhelo un día ver su faz."
+							}
+						]
+		},        		
+		{
+			"id"      : 141,
+			"title"   : "141. AL CIELO VOY",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Al cielo voy, pues yo ya salvo soy.-Jesús su vida dio por mí,-Creyendo salvo fui.-Por gracia y fe yo le veré,-Oh sí, con Cristo más allá yo reinaré."
+							}
+						]
+		},        		
+		{
+			"id"      :  142,
+			"title"   : "142. ALEGRÍA TENGO SIEMPRE",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Alegría tengo siempre-En Jesús mi Salvador;-Él me da un gozo sin igual-Y yo canto de su grande amor"
+							}
+						]
+		},        		
+		{
+			"id"      : 143,
+			"title"   : "143. ¡ALELUYA! TE ALABAMOS",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "¡Aleluya! te alabamos-Cristo nuestro Salvador.-¡Aleluya! te adoramos-Soberano, Rey, Señor.-Gloria a tu santo nombre-Entonamos con fervor;-Te loamos dulcemente,-Tú mereces todo honor."
+							}
+						]
+		},        		
+		{
+			"id"      : 144,
+			"title"   : "144. BRILLANDO Y LUCHANDO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Brillando y luchando por Cristo el Señor;-Velando y orando, soldados sin temor;-Siempre andando y hablando-Con nuestro Salvador,-Viviendo siempre por Cristo el Rey."
+							}
+						]
+		},        		
+		{
+			"id"      : 145,
+			"title"   : "145. REBOSA MI ALMA",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Rebosa mi alma de gozo y loor;-Hay canto y sonrisa-Pues Cristo es mi Señor.-Otros no comprenden,-Ni puedo ocultar-Que mi alma con su gozo-Siempre rebosando está."
+							}
+						]
+		},        		
+		{
+			"id"      : 146,
+			"title"   : "146. YO AMO A CRISTO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Yo amo a Cristo, Él es mi amigo;-Me ha salvado, me ha sanado,-Poder me ha dado,-Pues me ha llenado-De gozo y fe y de santo amor."
+							}
+						]
+		},        		
+		{
+			"id"      : 147,
+			"title"   : "147. LIBERTAD, LIBERTAD",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Libertad, libertad, ¡oh qué buena!-Es aquella que da el Salvador;-Libertad a las almas perdidas,-Libertad de la condenación.-Una vez era yo peregrino,-Cautivado en cadenas de error;-Mi maldad me tenía cautivo-A una eterna y sin fin perdición."
+							}
+						]
+		},        		
+		{  
+			"id"      : 148,
+			"title"   : "148. CRISTO VITORIAS DA",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Cristo victorias da, sí las da, sí las da.-Cristo victorias da, sí, sí, sí.-El diablo no triunfará, no podrá, no podrá.-El diablo no triunfará, no, no, no."
+							}
+						]
+		},   		
+		{  
+			"id"      : 149,
+			"title"   : "149. LOS QUE CON LÁGRIMAS SEMBRARON",
+			"stanzas" : [
+							{
+								"title"   : "1",
+								"content" : "Los que con lágrimas sembraron,-Con segocijo segarán.-Donde sus lágrimas regaron,-Hermosas plantas crecerán."
+							},
+							{
+								"title"   : "CORO:",
+								"content" : "|| Andando irán, llorando irán,-Pero felices volverán ||"
+							},
+							{
+								"title"   : "2",
+								"content" : "Trayendo al hombro sus gavillas-Y en la garganta una canción.-No se perdieron las semillas,-Mas dieron fruto en bendición."
+							}
+						]
+		},        		
+		{  
+			"id"      : 150,
+			"title"   : "150. SANTO ESPÍRITU LLENA MI VIDA",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Santo Espíritu llena mi vida,-Pues por Cristo yo quiero brillar.-Santo Espíritu llena mi vida,-Úsame las almas a salvar.-Alabanzas, alabanzas, alabanzas-Doy a Cristo el Rey.-Alabanzas, alabanzas, alabanzas-Doy al Rey."
+							}
+						]
+		},        		
+		{  
+			"id"      : 151,
+			"title"   : "151. VENID A MÍ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "<<Venid a mí>>, dice el Señor, a todo aquel-Que trabajando y cansado tenga sed.-Escuchad la invitación,-Ofreciendo a todos Cristo salvación.-El cansancio de tu alma quitará,-Libertado del pecado quedarás-Y el Espíritu de Dios llenará tu corazón-Y feliz anunciarás la salvación."
+							}
+						]
+		},        		
+		{  
+			"id"      : 152,
+			"title"   : "152. TRÁELAS, SEÑOR, A TI",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Tráelas, Señor, a Ti,-Tráelas a tu redil,-|| A esas almas perdidas-Que andan sin vida,-Señor, sin Ti.||-Tráelas, Señor, a Ti,-No las dejes jamás.-|| Ellas andan alegres, pero-En sus almas no tienen paz. ||"
+							}
+						]
+		},        		
+		{  
+			"id"      : 153,
+			"title"   : "153. SI SALVO SOY",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Si salvo soy, debo decir las maravillas-Del Señor: Que siendo yo un pecador,-Yo fui a la cruz y vi a Jesús-Y por la fe, Él me salvó.-Yo sé que he sido salvo,-No debo avergonzarme de confesar a Cristo-Como el Hijo de Dios.-Las grandes maravillas que obró mi Salvador-Que siendo yo perdido, Él me salvó."
+							}
+						]
+		},        		
+		{  
+			"id"      : 154,
+			"title"   : "154. ENVÍAME, SEÑOR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Envíame, Señor; envíame, Señor;-Envíame, Señor, a predicar-Y dame tu poder y dame tu poder-Y dame tu poder para guiar-Por sendas de salud, por sendas de salud,-Por sendas de salud al pecador.-Envíame, Señor; envíame, Señor;-Envíame, Señor, a predicar."
+							}
+						]
+		},        		
+		{  
+			"id"      : 155,
+			"title"   : "155. SOMOS UNO EN CRISTO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Somos uno en Cristo, somos uno,-Somos uno, uno solo ||-Un solo Dios, un solo Señor,-Una sola fe, un solo amor,-Un solo bautismo, un solo Espíritu-Y este es el Consolador."
+							}
+						]
+		},        		
+		{  
+			"id"      : 156,
+			"title"   : "156. HERMANOS, CANTEMOS",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Hermanos, cantemos y no tengamos miedo,-Que Cristo lo ha dicho y lo ha de cumplir,-Si el diablo se pone en contra de su pueblo,-|| Jehová lo postrará debajo de sus pies. ||"
+							}
+						]
+		},        		
+		{  
+			"id"      : 157,
+			"title"   : "157. DE CAUTIVIDAD",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| De cautividad, de cautividad-Dios nos hizo volver ||-|| Hay risas y danzas y alabanzas-Porque Él nos hizo volver ||"
+							}
+						]
+		},        		
+		{  
+			"id"      : 158,
+			"title"   : "158. HAY UNA PATRIA",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Hay una patria que Cristo nos ofrece-Y quiere dárnosla por heredad ||-|| Pero sin fe no podremos tenerla,-Pero sin fe no podremos llegar ||-|| Allí cantaremos con palmas en las manos,-Allí cantaremos por la eternidad ||-|| Allí cantaremos con gozo al Eterno,-Allí cantaremos por la eternidad. ||"
+							}
+						]
+		},        		
+		{  
+			"id"      : 159,
+			"title"   : "159. TE VENGO A DECIR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Te vengo a decir ||-¡Oh mi Salvador!-|| Que yo te amo a Ti ||-Con el corazón.-|| Te vengo a decir ||-Toda la verdad,-Yo te amo, Señor,-Te quiero, Señor,-Con el corazón.-|| Yo quiero cantar ||-De gozo y de paz;-|| Yo quiero llorar ||-De felicidad.-|| Te vengo a decir ||-Toda la verdad,-Yo te amo, Señor,-Te quiero, Señor,-Con el corazón."
+							}
+						]
+		},        		
+		{  
+			"id"      : 160,
+			"title"   : "160. SOY FELIZ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Soy feliz, Cristo me salvó.-Soy feliz, Él me libertó.-Soy feliz, Él me bautizó.-Canto: ¡gloria! ¡Aleluya!,-Él me libertó."
+							}
+						]
+		},        		
+		{  
+			"id"      : 161,
+			"title"   : "161. QUIERO CANTAR",
+			"stanzas" : [
+							{
+								"title"   : "1",
+								"content" : "Quiero cantar una linda canción-De aquel que mi vida cambió;-Quiero cantar una linda canción-De aquel que mi alma salvó."
+							},
+							{
+								"title"   : "CORO:",
+								"content" : "|| Es mi amigo Jesús ||-Él es Dios, Él es Rey, es amor y es verdad.-Solo en Él encontré esa paz que busqué,-Solo en Él encontré la felicidad."
+							},
+							{
+								"title"   : "2",
+								"content" : "Quiero cantar una linda canción-De Jesús que el camino mostró;-Quiero cantar una linda canción-De aquel que mi alma lavó."
+							}
+						]
+		},        		
+		{  
+			"id"      : 162,
+			"title"   : "162. TODO ES POSIBLE",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Todo es posible si puedes creer ||-Fe mueve la mano de Dios,-Fe en su palabra viva,-Todo es posible si puedes creer."
+							}
+						]
+		},        		
+		{  
+			"id"      : 163,
+			"title"   : "163. CANTAD VICTORIA",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Cantad victoria,-La palabra del vencedor;-Cantad victoria,-Venceremos por fe y amor;-Si vienen pruebas y afán,-Miremos al Capitán,-Quien es el Salvador,-En victoria nos guiará."
+							}
+						]
+		},        		
+		{  
+			"id"      : 164,
+			"title"   : "164. ¡ALELUYA!",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| ¡Aleluya, Aleluya, Aleluya,-Aleluya, load a Dios! ||-||| ¡Load a Dios!, ¡Aleluya! |||-¡Load a Dios!"
+							}
+						]
+		},        		
+		{  
+			"id"      : 165,
+			"title"   : "165. TAL CUAL EL CIERVO BRAMA",
+			"stanzas" : [
+							{
+								"title"   : "1",
+								"content" : "Tal cual el ciervo brama-Por límpiadas corrientes,-Mi corazón ardiente-Por Ti suspira ¡oh Dios!"
+							},
+							{
+								"title"   : "CORO:",
+								"content" : "Está sedienta mi alma-Del agua cristalina;-De la bondad divina-Mi alma tiene sed."
+							},
+							{
+								"title"   : "2",
+								"content" : "MI pan de día y noche-Son lágrimas candentes,-Diciendo a mí la gente:-¿Adónde está tu Dios?"
+							},
+							{
+								"title"   : "3",
+								"content" : "Se abate mucho mi alma-Y clama con vehemencia,-¡Oh Dios de mi clemencia!-Escucha mi oración."
+							}
+						]
+		},        		
+		{  
+			"id"      : 166,
+			"title"   : "166. DIOS ES NUESTRO AMPARO",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Dios es nuestro amparo, nuestra fortaleza,-Nuestro pronto auxilio en la tribulación;-Aunque se traspasen los montes a la mar,-|| Aunque la tierra tiemble tenemos que cantar. ||"
+							}
+						]
+		},        		
+		{  
+			"id"      : 167,
+			"title"   : "167. PON ACEITE EN MI LÁMPARA, SEÑOR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Pon aceite en mi lámpara, Señor ||-Que yo quiero servirte con amor;-Pon aceite en mi lámpara, Señor.-Señor Jesús, Tú eres mi vida,-Señor Jesús, Tú eres amor,-|| Salvaste mi alma perdida-Por eso te alabo con el corazón ||-Con el corazón, con el corazón."
+							}
+						]
+		},        		
+		{  
+			"id"      : 168,
+			"title"   : "168. TE EXALTARÉ, MI DIOS",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Te exaltaré, mi Dios, mi Rey,-Y bendeciré tu nombre-Eternamente y para siempre.-Cada día te bendeciré,-Y alabaré tu nombre-Eternamente y para siempre.-Grande es Jehová, y digno-De suprema alabanza;-Y su grandeza es inescrutable.-Cada día bendeciré.-Generación a generación-Celebrará tus obras,-Y anuncirán y anunciarán-Tus poderosos hechos.-En la hermosura de tu gloria,-Y en tus hechos meditaré.-Del poder de tus hechos-Estupendos hablarán los hombres,-Y yo publicaré, y yo publicaré-Tu grandeza.-Proclamarán tu inmensa bondad,-Y cantarán tu justicia."
+							}
+						]
+		},        		
+		{  
+			"id"      : 169,
+			"title"   : "169. GRANDE ES JEHOVÁ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Grande es Jehová, y muy-Digno de ser alabado-En la ciudad de nuestro Dios,-En su monte santo.-Hermosa provincia, es el-Gozo de toda la tierra,-|| Es el monte de Sión,-A los lados del norte,-La ciudad del gran Rey. ||"
+							}
+						]
+		},        		
+		{  
+			"id"      : 170,
+			"title"   : "170. SOLO DIOS HACE AL HOMBRE FELIZ",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Solo Dios hace al hombre feliz ||-La vida es nada, todo se acaba,-Solo Dios hace al hombre feliz.-|| Solo Dios puede hacerte feliz ||-La vida es nada, todo se acaba,-Solo Dios puede hacerte feliz."
+							}
+						]
+		},        		
+		{  
+			"id"      : 171,
+			"title"   : "171. SATÚRAME, SEÑOR, CON TU ESPÍRITU",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Satúrame, Señor, con tu Espíritu ||-|| Y déjame sentir el fuego de tu amor-Aquí en mi corazón, Señor. ||"
+							}
+						]
+		},        		
+		{  
+			"id"      : 172,
+			"title"   : "172. YO SÉ QUE ESTÁS AQUÍ, SEÑOR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Yo sé que estás aquí, Señor,-Yo sé que estás aquí ||-||| Mi alma te alaba |||-Porque sé que estás aquí. (Bis)"
+							}
+						]
+		},        		
+		{  
+			"id"      : 173,
+			"title"   : "173. DONDE ESTÁ EL ESPÍRITU DE DIOS",
+			"stanzas" : [
+							{
+								"title"   : "1",
+								"content" : "Donde está el Espíritu de Dios-Hay libertad, hay libertad-Donde está el Espíritu de Dios-Allí siempre hay libertad.-libertad, libertad,-Libertad, libertad;-Donde está el Espíritu de Dios-Allí siempre hay libertad."
+							},
+							{
+								"title"   : "2",
+								"content" : "Donde está el Espíritu de Dios-Hay gozo y paz, hay gozo y paz;-Donde está el Espíritu de Dios-Allí siempre hay gozo y paz-Gozo y paz, gozo y paz,-Gozo y paz, gozo y paz;-Donde está el Espíritu de Dios-Allí siempre hay gozo y paz."
+							}
+						]
+		},        		
+		{  
+			"id"      : 174,
+			"title"   : "174. LO QUE RESPIRA",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Alabad a nuestro Dios en su santuario-Por la hermosura de su cielo,-Por sus proezas alabadle a Él.-Alabadle por la grandeza de su nombre-Con el sonido de bocina,-Salterio y arpa, a la vez cantad.-Alabadle con alegre pandero,-Con el candor de la danza;-Cantad con gozo al Señor.-Alabadle con cuerdas, flautas y címbalos-De júbilo resonantes.-En su lenguaje todo-|| Lo que respira alabe al Señor. ||"
+							}
+						]
+		},        		
+		{  
+			"id"      : 175,
+			"title"   : "175. BUENO ES ALABARTE, ¡OH JEHOVÁ!",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "|| Bueno es alabarte, ¡oh Jehová! ||-Y cantar salmos a tu nombre, ¡oh Altísimo!-Anunciar por la mañana tu misericordia,-Tu misericordia  y tu fidelidad cada noche.-|| Bueno es alabarte, ¡oh Jehová! ||-Y cantar salmos a tu nombre, ¡oh Altísimo!"
+							}
+						]
+		},    		
+		{  
+			"id"      : 176,
+			"title"   : "176. OFRENDA Y DEVOCIÓN (PARA LA OFRENDA)",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Gracias te doy ¡oh Señor!-Por tu infinita bondad.-Porque encontré en tu amor-Toda mi felicidad.-Haz, Señor, que te comprenda-Y vive en mi corazón;-Recibe esta humilde ofrenda-Con ella mi devoción."
+							}
+						]
+		},        		
+		{  
+			"id"      : 177,
+			"title"   : "177. GRATITUD Y COMPROMISO (PARA LA OFRENDA)",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Yo agradezco con toda mi alegría-Tu obra que es tan bella y tan hermosa;-Y no me canso de hacerlo cada día-Porque es tu Iglesia real y esplendorosa.-|| Como aquí te manifiestas, Señor mío,-Hablando para que tu pueblo entienda-Contigo estoy, ¡oh Jehová! comprometido-Con mi oración, mi fe y con mi ofrenda. ||"
+							}
+						]
+		},       		     		
+		{  
+			"id"      : 178,
+			"title"   : "178. AMOR INCONDICIONAL",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "No me mueve, mi Dios, para quererte-El cielo que me tienes prometido,-Ni me mueve el infierno tan temido-Para dejar por eso de ofenderte."
+							},
+							{
+								"title"   : "",
+								"content" : "Muéveme, al fin, tu amor, y en tal manera-Que aunque no hubiera cielo yo te amara;-Muéveme la paz que das al alma entera-Que aunque no hubiera infierno te temiera."
+							},
+							{
+								"title"   : "",
+								"content" : "No me tienes que dar porque te quiera,-Pues aunque lo que espero, no esperara-|| Lo mismo que te quiero ||-Te quisiera."
+							}
+						]
+		},       		     		
+		{  
+			"id"      : 179,
+			"title"   : "179. TE ALABARÉ, SEÑOR",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Te alabaré, Señor, con todo mi corazón,-Con todo mi corazón, te alabaré, Señor.-Contaré todas tus maravillas,-Todas tus maravillas; te alabaré, Señor.-Me alegraré en ti y me regocijaré,-Y me regocijaré, te alabaré Señor.-Cantaré a tu nombre, oh Altísimo;-Oh Altísimo, te alabaré, Señor;-Te alabaré, Señor; te alabaré, Señor."
+							}
+						]
+		},       		     		
+		{  
+			"id"      : 180,
+			"title"   : "180. GLORIA Y MAJESTAD",
+			"stanzas" : [
+							{
+								"title"   : "",
+								"content" : "Gloria y majestad-Al eterno rey de siglos;-Gloria y majestad-Pues es dueño del amor que vive en mí;-Gloria y majestad-Que tus hijos a tu nombre siempre adorarán."
+							}
+						]
+		}   	     		
+    ]
+}
